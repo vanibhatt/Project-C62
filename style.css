@@ -1,0 +1,55 @@
+img {
+    height: 400px;
+    width: 400px;
+    transition: transform 0.2s;
+}
+
+body {
+    text-align: center;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#um {
+    background-color: forestgreen;
+}
+
+#um img {
+    margin-top: 10px;
+    height: 400px;
+}
+
+.all {
+    background-color: darkcyan;
+    font-family: Comic Sans MS;
+    color: darkblue;
+}
+
+p {
+    font-family: Papyrus;
+    font-size: 50px;
+    color: black;
+}
+
+h1 {
+    font-family: Comic Sans MS;
+    color: palevioletred;
+}
+
+h2 {
+    font-family: Comic Sans MS;
+}
+
+h3 {
+    font-family: Comic Sans MS;
+}
+
+.qw {
+    height: 200px;
+    width: 200px;
+    border-radius: 75px;
+    border-width: 10px;
+    border-bottom-color: black;
+}
